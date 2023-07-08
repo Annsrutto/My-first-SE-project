@@ -1,1 +1,1 @@
-our readme file
+Teaching git.
